@@ -1,0 +1,14 @@
+C:\Users\jbraz\Desktop\WGU\Software_1\software-1-repo\Software1_Inventory_App\Software1_Inventory_App\obj\Debug\Software1_Inventory_App.MainScreen.resources
+C:\Users\jbraz\Desktop\WGU\Software_1\software-1-repo\Software1_Inventory_App\Software1_Inventory_App\obj\Debug\Software1_Inventory_App.Properties.Resources.resources
+C:\Users\jbraz\Desktop\WGU\Software_1\software-1-repo\Software1_Inventory_App\Software1_Inventory_App\obj\Debug\Software1_Inventory_App.csproj.GenerateResource.cache
+C:\Users\jbraz\Desktop\WGU\Software_1\software-1-repo\Software1_Inventory_App\Software1_Inventory_App\obj\Debug\Software1_Inventory_App.csproj.CoreCompileInputs.cache
+C:\Users\jbraz\Desktop\WGU\Software_1\software-1-repo\Software1_Inventory_App\Software1_Inventory_App\bin\Debug\Software1_Inventory_App.exe.config
+C:\Users\jbraz\Desktop\WGU\Software_1\software-1-repo\Software1_Inventory_App\Software1_Inventory_App\bin\Debug\Software1_Inventory_App.exe
+C:\Users\jbraz\Desktop\WGU\Software_1\software-1-repo\Software1_Inventory_App\Software1_Inventory_App\bin\Debug\Software1_Inventory_App.pdb
+C:\Users\jbraz\Desktop\WGU\Software_1\software-1-repo\Software1_Inventory_App\Software1_Inventory_App\obj\Debug\Software1_Inventory_App.exe
+C:\Users\jbraz\Desktop\WGU\Software_1\software-1-repo\Software1_Inventory_App\Software1_Inventory_App\obj\Debug\Software1_Inventory_App.pdb
+C:\Users\jbraz\Desktop\WGU\Software_1\software-1-repo\Software1_Inventory_App\Software1_Inventory_App\obj\Debug\Software1_Inventory_App.AddPartsForm.resources
+C:\Users\jbraz\Desktop\WGU\Software_1\software-1-repo\Software1_Inventory_App\Software1_Inventory_App\obj\Debug\Software1_Inventory_App.ModifyPartsForm.resources
+C:\Users\jbraz\Desktop\WGU\Software_1\software-1-repo\Software1_Inventory_App\Software1_Inventory_App\obj\Debug\Software1_Inventory_App.csprojAssemblyReference.cache
+C:\Users\jbraz\Desktop\WGU\Software_1\software-1-repo\Software1_Inventory_App\Software1_Inventory_App\obj\Debug\Software1_Inventory_App.AddProductForm.resources
+C:\Users\jbraz\Desktop\WGU\Software_1\software-1-repo\Software1_Inventory_App\Software1_Inventory_App\obj\Debug\Software1_Inventory_App.ModifyProductsForm.resources
